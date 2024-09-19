@@ -1,0 +1,20 @@
+SDLC-software used by software developer ,teams to design develop  and test high quality software.
+1)Requirement gathering--->Trello,Jira
+2)System analysis --> Confluence
+3)design -->sketch
+4)Implementation -->Git,Github,Jenkins
+5)Testing -->Selenium
+6)Deployment--->Docker,Kubernetes,Ansible
+7)Maintenance --->Nagios
+
+GIT-->Git is distributed version control system that tracks versions of files. It is Often used to Control source code by programmers who are developing software collaboratively.
+
+Changes-->Major
+	  Minor
+	  Bugfix/featurefix
+
+GitHub-->It is an online software development platform.It's used for storing,tracking
+
+Enterprise
+Organization
+Repo
